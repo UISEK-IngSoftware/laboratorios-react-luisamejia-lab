@@ -1,9 +1,9 @@
 import { Grid } from "@mui/material";
 import "./PokemonList.css";
-import { pokemons } from "../data/pokemons"; 
-import PokemonCard from "./PokemonCard"; 
+import { pokemons } from "../data/pokemons";
+import PokemonCard from "../components/PokemonCard.jsx"; 
 
-export default function PokemonList({ pokemons }) {
+export default function PokemonList() {
     return ( 
         <Grid container spacing={2}> 
 

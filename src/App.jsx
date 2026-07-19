@@ -1,6 +1,7 @@
 import Header from './components/Header'
 import './App.css'
-import PokemonCard from './components/PokemonCard'
+import PokemonList from './pages/PokemonList.jsx'
+import PokemonCard from './components/PokemonCard.jsx'
 import { Container } from '@mui/material'
 
 function App() {

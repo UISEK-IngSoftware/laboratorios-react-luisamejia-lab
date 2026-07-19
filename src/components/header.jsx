@@ -1,4 +1,4 @@
-import { AppBar, Container } from "@mui/material";
+import { AppBar, Container, Toolbar } from "@mui/material";
 import pokemonLogo from "../assets/pokemon.png";
 import "./header.css";
 
